@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Practice\Practice.Core\bin\Debug\net8.0\Practice.Core.deps.json
+C:\Users\Admin\source\repos\Practice\Practice.Core\bin\Debug\net8.0\Practice.Core.dll
+C:\Users\Admin\source\repos\Practice\Practice.Core\bin\Debug\net8.0\Practice.Core.pdb
+C:\Users\Admin\source\repos\Practice\Practice.Core\obj\Debug\net8.0\Practice.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Practice\Practice.Core\obj\Debug\net8.0\Practice.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Practice\Practice.Core\obj\Debug\net8.0\Practice.Core.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Practice\Practice.Core\obj\Debug\net8.0\Practice.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Practice\Practice.Core\obj\Debug\net8.0\Practice.Core.dll
+C:\Users\Admin\source\repos\Practice\Practice.Core\obj\Debug\net8.0\refint\Practice.Core.dll
+C:\Users\Admin\source\repos\Practice\Practice.Core\obj\Debug\net8.0\Practice.Core.pdb
+C:\Users\Admin\source\repos\Practice\Practice.Core\obj\Debug\net8.0\ref\Practice.Core.dll
+C:\Users\Admin\source\repos\Practice\Practice.Core\obj\Debug\net8.0\Practice.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Practice\Practice.Core\obj\Debug\net8.0\Practice.Core.Properties.Resources.resources
+C:\Users\Admin\source\repos\Practice\Practice.Core\obj\Debug\net8.0\Practice.Core.csproj.GenerateResource.cache

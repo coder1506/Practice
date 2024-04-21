@@ -1,0 +1,454 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A322B6-86E0-46F5-BEE7-9EFDB533BFD0}|Practice.Api\\Practice.Api.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A322B6-86E0-46F5-BEE7-9EFDB533BFD0}|Practice.Api\\Practice.Api.csproj|solutionrelative:practice.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|solutionrelative:practice.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A322B6-86E0-46F5-BEE7-9EFDB533BFD0}|Practice.Api\\Practice.Api.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A322B6-86E0-46F5-BEE7-9EFDB533BFD0}|Practice.Api\\Practice.Api.csproj|solutionrelative:practice.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A322B6-86E0-46F5-BEE7-9EFDB533BFD0}|Practice.Api\\Practice.Api.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.api\\controllers\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A322B6-86E0-46F5-BEE7-9EFDB533BFD0}|Practice.Api\\Practice.Api.csproj|solutionrelative:practice.api\\controllers\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1CB816-186A-4A40-8FB5-D656470C930F}|Practice.Repo\\Practice.Repo.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.repo\\repo\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1CB816-186A-4A40-8FB5-D656470C930F}|Practice.Repo\\Practice.Repo.csproj|solutionrelative:practice.repo\\repo\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1CB816-186A-4A40-8FB5-D656470C930F}|Practice.Repo\\Practice.Repo.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.repo\\repo\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1CB816-186A-4A40-8FB5-D656470C930F}|Practice.Repo\\Practice.Repo.csproj|solutionrelative:practice.repo\\repo\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.core\\services\\base\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|solutionrelative:practice.core\\services\\base\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.core\\interface\\base\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|solutionrelative:practice.core\\interface\\base\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.core\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|solutionrelative:practice.core\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.core\\attributes\\notduplicateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|solutionrelative:practice.core\\attributes\\notduplicateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.core\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|solutionrelative:practice.core\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A322B6-86E0-46F5-BEE7-9EFDB533BFD0}|Practice.Api\\Practice.Api.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A322B6-86E0-46F5-BEE7-9EFDB533BFD0}|Practice.Api\\Practice.Api.csproj|solutionrelative:practice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.core\\interface\\service\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|solutionrelative:practice.core\\interface\\service\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.core\\util\\md5util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|solutionrelative:practice.core\\util\\md5util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.core\\util\\handleutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|solutionrelative:practice.core\\util\\handleutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.core\\interface\\service\\icustomerserivce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|solutionrelative:practice.core\\interface\\service\\icustomerserivce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.core\\interface\\base\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|solutionrelative:practice.core\\interface\\base\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.core\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|solutionrelative:practice.core\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.core\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|solutionrelative:practice.core\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.core\\attributes\\tokenrequiredhandlerattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|solutionrelative:practice.core\\attributes\\tokenrequiredhandlerattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.core\\attributes\\tokenrequiredattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|solutionrelative:practice.core\\attributes\\tokenrequiredattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.core\\util\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|solutionrelative:practice.core\\util\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.core\\model\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|solutionrelative:practice.core\\model\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.core\\interface\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77F091C-2EFB-4B41-8454-4713355FCD19}|Practice.Core\\Practice.Core.csproj|solutionrelative:practice.core\\interface\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A322B6-86E0-46F5-BEE7-9EFDB533BFD0}|Practice.Api\\Practice.Api.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0A322B6-86E0-46F5-BEE7-9EFDB533BFD0}|Practice.Api\\Practice.Api.csproj|solutionrelative:practice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A322B6-86E0-46F5-BEE7-9EFDB533BFD0}|Practice.Api\\Practice.Api.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0A322B6-86E0-46F5-BEE7-9EFDB533BFD0}|Practice.Api\\Practice.Api.csproj|solutionrelative:practice.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A322B6-86E0-46F5-BEE7-9EFDB533BFD0}|Practice.Api\\Practice.Api.csproj|c:\\users\\admin\\source\\repos\\practice\\practice.api\\practice.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C0A322B6-86E0-46F5-BEE7-9EFDB533BFD0}|Practice.Api\\Practice.Api.csproj|solutionrelative:practice.api\\practice.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Practice.Core\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Services\\AccountService.cs",
+              "RelativeToolTip": "Practice.Core\\Services\\AccountService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwA0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:45:28.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Interface\\Base\\IBaseService.cs",
+              "RelativeDocumentMoniker": "Practice.Core\\Interface\\Base\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Interface\\Base\\IBaseService.cs",
+              "RelativeToolTip": "Practice.Core\\Interface\\Base\\IBaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:33:45.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Practice.Api\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Practice.Api\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:20:18.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Interface\\Service\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Practice.Core\\Interface\\Service\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Interface\\Service\\IAccountService.cs",
+              "RelativeToolTip": "Practice.Core\\Interface\\Service\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:42:40.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Services\\Base\\BaseService.cs",
+              "RelativeDocumentMoniker": "Practice.Core\\Services\\Base\\BaseService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Services\\Base\\BaseService.cs",
+              "RelativeToolTip": "Practice.Core\\Services\\Base\\BaseService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowBUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:37:03.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Api\\Controllers\\Base\\BaseController.cs",
+              "RelativeDocumentMoniker": "Practice.Api\\Controllers\\Base\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Api\\Controllers\\Base\\BaseController.cs",
+              "RelativeToolTip": "Practice.Api\\Controllers\\Base\\BaseController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:33:13.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Repo\\Repo\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Practice.Repo\\Repo\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Repo\\Repo\\BaseRepository.cs",
+              "RelativeToolTip": "Practice.Repo\\Repo\\BaseRepository.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwCcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:37:27.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Repo\\Repo\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Practice.Repo\\Repo\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Repo\\Repo\\CustomerRepository.cs",
+              "RelativeToolTip": "Practice.Repo\\Repo\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:36:03.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Api\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Practice.Api\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Api\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Practice.Api\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:38:12.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Practice.Core\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Practice.Core\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:22:09.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HandleUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Util\\HandleUtil.cs",
+              "RelativeDocumentMoniker": "Practice.Core\\Util\\HandleUtil.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Util\\HandleUtil.cs",
+              "RelativeToolTip": "Practice.Core\\Util\\HandleUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:59:26.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Practice.Core\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Entities\\Account.cs",
+              "RelativeToolTip": "Practice.Core\\Entities\\Account.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:21:12.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotDuplicateAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Attributes\\NotDuplicateAttribute.cs",
+              "RelativeDocumentMoniker": "Practice.Core\\Attributes\\NotDuplicateAttribute.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Attributes\\NotDuplicateAttribute.cs",
+              "RelativeToolTip": "Practice.Core\\Attributes\\NotDuplicateAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T06:58:31.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICustomerSerivce.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Interface\\Service\\ICustomerSerivce.cs",
+              "RelativeDocumentMoniker": "Practice.Core\\Interface\\Service\\ICustomerSerivce.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Interface\\Service\\ICustomerSerivce.cs",
+              "RelativeToolTip": "Practice.Core\\Interface\\Service\\ICustomerSerivce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:36:56.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Practice.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Api\\Program.cs",
+              "RelativeToolTip": "Practice.Api\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:34:05.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MD5Util.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Util\\MD5Util.cs",
+              "RelativeDocumentMoniker": "Practice.Core\\Util\\MD5Util.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Util\\MD5Util.cs",
+              "RelativeToolTip": "Practice.Core\\Util\\MD5Util.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T06:44:20.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Interface\\Base\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Practice.Core\\Interface\\Base\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Interface\\Base\\IBaseRepository.cs",
+              "RelativeToolTip": "Practice.Core\\Interface\\Base\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:36:49.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Practice.Core\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Entities\\Customer.cs",
+              "RelativeToolTip": "Practice.Core\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:36:44.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Practice.Core\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Practice.Core\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:37:04.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TokenRequiredAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Attributes\\TokenRequiredAttribute.cs",
+              "RelativeDocumentMoniker": "Practice.Core\\Attributes\\TokenRequiredAttribute.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Attributes\\TokenRequiredAttribute.cs",
+              "RelativeToolTip": "Practice.Core\\Attributes\\TokenRequiredAttribute.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T09:19:56.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Model\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "Practice.Core\\Model\\ServiceResult.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Model\\ServiceResult.cs",
+              "RelativeToolTip": "Practice.Core\\Model\\ServiceResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:36:59.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Util\\DBHelper.cs",
+              "RelativeDocumentMoniker": "Practice.Core\\Util\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Util\\DBHelper.cs",
+              "RelativeToolTip": "Practice.Core\\Util\\DBHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:41:58.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Practice.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Api\\appsettings.json",
+              "RelativeToolTip": "Practice.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-14T09:11:01.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TokenRequiredHandlerAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Attributes\\TokenRequiredHandlerAttribute.cs",
+              "RelativeDocumentMoniker": "Practice.Core\\Attributes\\TokenRequiredHandlerAttribute.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Attributes\\TokenRequiredHandlerAttribute.cs",
+              "RelativeToolTip": "Practice.Core\\Attributes\\TokenRequiredHandlerAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T09:45:03.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Practice.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Practice.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-14T09:14:24.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Interface\\Repository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Practice.Core\\Interface\\Repository\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Core\\Interface\\Repository\\ICustomerRepository.cs",
+              "RelativeToolTip": "Practice.Core\\Interface\\Repository\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:36:38.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Practice.Api.http",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Api\\Practice.Api.http",
+              "RelativeDocumentMoniker": "Practice.Api\\Practice.Api.http",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice.Api\\Practice.Api.http",
+              "RelativeToolTip": "Practice.Api\\Practice.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-14T08:37:46.532Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

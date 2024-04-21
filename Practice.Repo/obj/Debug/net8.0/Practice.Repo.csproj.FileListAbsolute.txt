@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Practice\Practice.Repo\bin\Debug\net8.0\Practice.Repo.deps.json
+C:\Users\Admin\source\repos\Practice\Practice.Repo\bin\Debug\net8.0\Practice.Repo.dll
+C:\Users\Admin\source\repos\Practice\Practice.Repo\bin\Debug\net8.0\Practice.Repo.pdb
+C:\Users\Admin\source\repos\Practice\Practice.Repo\bin\Debug\net8.0\Practice.Core.dll
+C:\Users\Admin\source\repos\Practice\Practice.Repo\bin\Debug\net8.0\Practice.Core.pdb
+C:\Users\Admin\source\repos\Practice\Practice.Repo\obj\Debug\net8.0\Practice.Repo.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Practice\Practice.Repo\obj\Debug\net8.0\Practice.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Practice\Practice.Repo\obj\Debug\net8.0\Practice.Repo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Practice\Practice.Repo\obj\Debug\net8.0\Practice.Repo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Practice\Practice.Repo\obj\Debug\net8.0\Practice.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Practice\Practice.Repo\obj\Debug\net8.0\Practice.9CD90E5C.Up2Date
+C:\Users\Admin\source\repos\Practice\Practice.Repo\obj\Debug\net8.0\Practice.Repo.dll
+C:\Users\Admin\source\repos\Practice\Practice.Repo\obj\Debug\net8.0\refint\Practice.Repo.dll
+C:\Users\Admin\source\repos\Practice\Practice.Repo\obj\Debug\net8.0\Practice.Repo.pdb
+C:\Users\Admin\source\repos\Practice\Practice.Repo\obj\Debug\net8.0\ref\Practice.Repo.dll
